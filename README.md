@@ -115,7 +115,7 @@ I'm available for:
 
 ## Contact
 
-- **Telegram**: `@MohammadB2049`
+- **Telegram**: ```@MohammadB2049```
 - **Email**: mohammad161186@gmail.com
 
 Feel free to reach out for collaboration, freelance work, or interesting projects.
