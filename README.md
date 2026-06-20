@@ -86,6 +86,10 @@ Flutter application for discovering and browsing thousands of public live camera
 
 Production-ready gaming community platform featuring authentication, wallets, tournaments, real-time chat, news, and a full administration system.
 
+### Muse
+
+ai dual agent companion
+
 ---
 
 ## Current Focus
