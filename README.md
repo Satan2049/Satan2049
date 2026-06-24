@@ -26,6 +26,7 @@ I enjoy turning ideas into real-world products using modern technologies across 
 - Flutter
 - Dart
 - Tauri
+- Electron
 
 ### Frontend
 
@@ -70,9 +71,9 @@ Windows desktop utility that collects links and sends them to Internet Download 
 
 Research-focused AI assistant featuring a 2D avatar, lip-sync, local text-to-speech, RAG support, and a Tauri desktop application.
 
-### Chat Nest
+### ThatGPT (ThatLabs2049)
 
-Open-source desktop chat client built with React, Rust, and Tauri, supporting OpenAI-compatible providers while keeping API credentials outside the UI layer.
+Open-source desktop chat-gpt like client built with React, Rust, and Tauri, supporting OpenAI-compatible providers while keeping API credentials outside the UI layer.
 
 ### Omni Parse
 
@@ -86,9 +87,9 @@ Flutter application for discovering and browsing thousands of public live camera
 
 Production-ready gaming community platform featuring authentication, wallets, tournaments, real-time chat, news, and a full administration system.
 
-### Muse
+### ThatCode (ThatLabs2049)
 
-ai dual agent companion
+A complete coding agent with simple ui chat and embedding, open-ai compatible.
 
 ---
 
