@@ -1,126 +1,100 @@
 # Hi, I'm Mohammad Beik 👋
 
-Full-Stack Developer specializing in modern web applications, desktop software, AI-powered products, and open-source tools.
+Full-Stack Developer building modern web apps, desktop software, and AI-powered tools.
 
-I enjoy turning ideas into real-world products using modern technologies across the entire stack — from frontend interfaces to backend systems, databases, and desktop applications.
+I turn ideas into production-ready products across the stack — frontend, backend, databases, and desktop.
 
 ---
 
-## About Me
+## About
 
 - Full-Stack Developer
-- Open to Work & Freelance Opportunities
-- Building Web, Desktop, and AI Applications
-- Passionate about Performance, Clean Architecture, and Developer Experience
-- Open Source Enthusiast
+- Open to full-time roles and freelance work
+- Web, desktop, and AI-focused applications
+- Care about performance, clean architecture, and developer experience
+- Open-source contributor and maintainer
 
 ---
 
 ## Tech Stack
 
-### Core
+**Core:** Rust · Python · Node.js · Flutter · Dart · Tauri · Electron  
 
-- Rust
-- Python
-- Node.js
-- Flutter
-- Dart
-- Tauri
-- Electron
+**Frontend:** React · Next.js · Vite · TypeScript · JavaScript  
 
-### Frontend
+**Backend:** FastAPI · Express.js · NestJS · Axum  
 
-- React
-- Next.js
-- Vite
-- TypeScript
-- JavaScript
-
-### Backend
-
-- FastAPI
-- Express.js
-- NestJS
-- Axum
-
-### Databases & Infrastructure
-
-- PostgreSQL
-- SQLite
-- Redis
+**Data & infra:** PostgreSQL · SQLite · Redis  
 
 ---
 
 ## Workflow
 
-I leverage AI-assisted development tools, including Cursor, to accelerate development, rapid prototyping, and software delivery while maintaining clean architecture and code quality.
+I use AI-assisted tooling (including Cursor) for faster delivery and prototyping, without sacrificing architecture or code quality.
 
 ---
 
 ## Featured Projects
 
-### PDF Craft
+### [PDF Craft](https://github.com/Satan2049/pdf-craft)
+Offline PDF workstation — edit, convert, OCR, batch tools, and automation. Python + CustomTkinter.
 
-Open-source PDF workstation for editing, conversion, OCR, batch processing, and document automation — built with Python and CustomTkinter.
+### [IDM Queue](https://github.com/Satan2049/idm-queue)
+Windows utility that extracts links and queues them in Internet Download Manager.
 
-### IDM Queue
+### [Persona AI](https://github.com/Satan2049/persona-ai)
+Research AI assistant with VRM avatar, lip-sync, OpenAI-compatible TTS/STT, and a Tauri desktop app.
 
-Windows desktop utility that collects links and sends them to Internet Download Manager queues with optional automated downloads.
+### [ThatGPT](https://github.com/ThatLabs2049/that-gpt) *(ThatLabs2049)*
+Local ChatGPT-style desktop client (React + Rust + Tauri). OpenAI-compatible providers; API keys stay outside the webview.
 
-### Persona AI
+### [ThatCode](https://github.com/ThatLabs2049/that-code) *(ThatLabs2049)*
+Local coding agent with a simple desktop UI — read, edit, verify, and explain codebases with your own API.
 
-Research-focused AI assistant featuring a 2D avatar, lip-sync, local text-to-speech, RAG support, and a Tauri desktop application.
+### [OmniParse](https://github.com/Satan2049/omni-parse)
+Universal page-to-data extractor — URLs/HTML to Markdown, JSON, or text for RAG and AI pipelines. Rust + Tauri.
 
-### ThatGPT (ThatLabs2049)
+### [Holes](https://github.com/Satan2049/holes)
+Flutter app for browsing thousands of public live camera streams — offline catalog, search, and filters.
 
-Open-source desktop chat-gpt like client built with React, Rust, and Tauri, supporting OpenAI-compatible providers while keeping API credentials outside the UI layer.
+### [Echoes](https://github.com/Satan2049/echoes)
+OpenAI-compatible desktop TTS client — model/voice auto-detect, play & save. Tauri + React.
 
-### Omni Parse
+### [Rose Tracker](https://github.com/Satan2049/rose-tracker)
+Minimal desktop habit tracker with a dark rose UI. Local JSON storage. Tauri + Rust.
 
-Universal page-to-data extractor that converts URLs and HTML into structured Markdown, JSON, or plain text for AI and data pipelines.
-
-### Holes
-
-Flutter application for discovering and browsing thousands of public live camera streams with offline catalog support and advanced filtering.
-
-### IGT Clan
-
-Production-ready gaming community platform featuring authentication, wallets, tournaments, real-time chat, news, and a full administration system.
-
-### ThatCode (ThatLabs2049)
-
-A complete coding agent with simple ui chat and embedding, open-ai compatible.
+### [iGT CLAN](https://github.com/Satan2049/igtclan-showcase)
+Production gaming community platform — auth, wallet, tournaments, real-time chat, news, and admin. Live at [igtclan.ir](https://igtclan.ir).
 
 ---
 
 ## Current Focus
 
-Currently focusing on:
-
-- Rust Ecosystem
-- Tauri Desktop Applications
-- AI Integrations
-- FastAPI & Modern Backend Development
-- High Performance Full-Stack Applications
+- Full-stack product development
+- Rust ecosystem & Tauri desktop apps
+- AI integrations
+- FastAPI and modern backends
+- High-performance web applications
 
 ---
 
-## Open To Work
+## Open to Work
 
-I'm available for:
+Available for:
 
-- Full-Stack Development
-- Backend Development
-- Desktop Application Development
-- AI-powered Applications
-- Custom Software Solutions
-- Freelance Projects
+- Full-stack development
+- Backend development
+- Desktop application development
+- Mobile application development
+- AI-powered applications
+- Custom software & freelance projects
 
 ---
 
 ## Contact
 
-- **Telegram**: `@MohammadB2049`
-- **Email**: mohammad161186@gmail.com
+- **Telegram:** [@MohammadB2049](https://t.me/MohammadB2049)
+- **Email:** mohammad161186@gmail.com
+- **LinkedIn:** [Mohammad Beik](https://www.linkedin.com/in/mohammad-beik-1615253b0)
 
-Feel free to reach out for collaboration, freelance work, or interesting projects.
+Feel free to reach out for collaboration, freelance work, or full-time opportunities.
